@@ -1,2 +1,5 @@
 p {color:red;}
 title {color:blue;}
+h1 {text-align:center;background-color: linen;}
+  h3 {border-style: solid;background-color: linen;}
+  li {text-decoration: underline;}
